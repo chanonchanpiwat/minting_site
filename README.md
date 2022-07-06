@@ -14,8 +14,8 @@ blockchain data including totalsupply, mintprice and status via infura API.
 2. specific amount of NFT you would like to mint and pressing mint button
 3. after NFT is minted totalsupply and image shown on web will change coresponding to the remaining tokenID
 
-<img src="/screenshot/1.png" alt="screenshot"/>
 <img src="/screenshot/2.png" alt="screenshot"/>
+<img src="/screenshot/1.png" alt="screenshot"/>
 <img src="/screenshot/3.png" alt="screenshot"/>
 <img src="/screenshot/4.png" alt="screenshot"/>
 
