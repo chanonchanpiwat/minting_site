@@ -24,4 +24,5 @@ blockchain data including totalsupply, mintprice and status via infura API.
 2. npm install
 3. add .env which should include your infura API_KEYS and contract address you wish to interact with
 4. reconfig contract ABI according to smart contract you wish to interact with
+5. npm start
 
